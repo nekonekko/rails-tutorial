@@ -4,3 +4,6 @@
 [submodule "toy-app"]
 	path = toy-app
 	url = https://github.com/nekonekko/toy-app.git
+[submodule "sample-app"]
+	path = sample-app
+	url = https://github.com/nekonekko/sample-app.git
