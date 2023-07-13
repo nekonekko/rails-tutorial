@@ -1,3 +1,6 @@
 [submodule "hello-app"]
 	path = hello-app
 	url = https://github.com/nekonekko/hello-app
+[submodule "toy-app"]
+	path = toy-app
+	url = https://github.com/nekonekko/toy-app.git
